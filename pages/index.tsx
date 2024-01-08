@@ -10,6 +10,7 @@ export default function Home(props:any) {
             <Banner/>
             <hr className={'mt-5'}/>
             <BlogContainer data={props.data}/>
+            <footer className={'mt-[300px]'}></footer>
         </main>
     )
 }

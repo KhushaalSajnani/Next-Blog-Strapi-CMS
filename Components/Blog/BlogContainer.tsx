@@ -1,6 +1,4 @@
 import BlogCard from "@/Components/BlogCard/BlogCard";
-import {blogDetailsStrapi} from "@/DataMap.d";
-
 
 const BlogContainer = ({data}:any) => {
     return <div className={'flex sm:justify-evenly justify-center flex-wrap w-[100%]'}>

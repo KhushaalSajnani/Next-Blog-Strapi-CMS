@@ -17,7 +17,8 @@ const config: Config = {
       fontFamily:{
         'nav': ['Rubik Scribble'],
         'navTitle':['Salsa'],
-        'banner-title':['Prompt','sans-serif']
+        'banner-title':['Prompt','sans-serif'],
+        'blog-title':['Cabin','sans-serif']
       }
     },
   },
